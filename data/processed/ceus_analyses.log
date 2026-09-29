@@ -1,0 +1,74 @@
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+/home/ubuntu/.local/lib/python3.10/site-packages/numpy/lib/_nanfunctions_impl.py:1215: RuntimeWarning: Mean of empty slice
+  return np.nanmean(a, axis, out=out, keepdims=keepdims)
+     spec  radius  n_origins  n_rows  frac_pos                               frac_pos_ci  frac_gt_01  mean_G                                      ci_G  gt_rand  gt_nearmaj  diff_nearmaj                             diff_nearmaj_ci  wilcoxon_p  best_is_major
+2    ATTR     300       1997   19970     0.990   [0.985478217325989, 0.9939909864797196]       0.913   0.452  [0.4396080026995075, 0.4648019503126905]    0.998       0.992         0.415  [0.39593985527575803, 0.43494224424084776]         0.0          0.115
+6    COMB     300       1997   19970     0.983  [0.9783162243365048, 0.9881321982974461]       0.958   1.680   [1.635307004583296, 1.7249862542598264]    0.998       0.797         0.211  [0.20009936025633965, 0.22261158026078864]         0.0          0.560
+10  PROXY     300       1997   19970     0.983  [0.9786179268903356, 0.9878818227341012]       0.919   1.692  [1.6435315189346793, 1.7400539259153174]    0.998       0.824         0.159   [0.15022458827974902, 0.1671362183571073]         0.0          0.561
+14   ROAD     300       1997   19970     0.953  [0.9439158738107161, 0.9624436654982473]       0.951   1.841  [1.7938266526332298, 1.8892614188583285]    0.998       0.664         0.373    [0.3501105928100293, 0.3953769008471355]         0.0          0.548
+   selector evaluator  radius  mean_TG  med_TG                                          ci_TG  frac_pos  frac_gt_01
+2      ATTR      COMB     300    0.276   0.161       [0.22508399020699835, 0.327318978783344]     0.632       0.549
+6      ATTR     PROXY     300    0.223   0.077       [0.1710911317275459, 0.2754671367747841]     0.671       0.450
+10     ATTR      ROAD     300    0.061   0.000  [0.00030287152529932424, 0.11961078436478562]     0.440       0.431
+14    PROXY      ATTR     300      NaN     NaN                                     [nan, nan]     0.000       0.000
+18    PROXY      COMB     300    1.644   1.662          [1.60015480803937, 1.689520711339265]     0.967       0.940
+22    PROXY      ROAD     300    1.606   1.592        [1.5033977138942731, 1.605967156830944]     0.881       0.876
+26     ROAD      ATTR     300      NaN     NaN                                     [nan, nan]     0.000       0.000
+30     ROAD      COMB     300    1.571   1.597       [1.5257361259137119, 1.6170297810134864]     0.937       0.904
+34     ROAD     PROXY     300    1.550   1.549       [1.5018071132109585, 1.5970669988547617]     0.900       0.829
+perm weekday_17 0
+perm weekday_17 50
+perm weekday_17 100
+perm weekday_17 150
+perm weekday_17 200
+perm weekday_17 250
+perm weekday_17 300
+perm weekday_17 350
+perm weekday_17 400
+perm weekday_17 450
+weekday_17 r=100: frac_pos obs=0.830 null=0.874 p=1.0000 | meanG obs=0.788 null=1.705 p=1.0000
+weekday_17 r=200: frac_pos obs=0.964 null=0.957 p=0.0659 | meanG obs=1.322 null=2.329 p=1.0000
+weekday_17 r=300: frac_pos obs=0.983 null=0.979 p=0.1158 | meanG obs=1.678 null=2.610 p=1.0000
+weekday_17 r=500: frac_pos obs=0.995 null=0.992 p=0.0579 | meanG obs=2.103 null=2.842 p=1.0000
+perm weekend_23 0
+perm weekend_23 50
+perm weekend_23 100
+perm weekend_23 150
+perm weekend_23 200
+perm weekend_23 250
+perm weekend_23 300
+perm weekend_23 350
+perm weekend_23 400
+perm weekend_23 450
+weekend_23 r=100: frac_pos obs=0.836 null=0.874 p=1.0000 | meanG obs=0.756 null=1.723 p=1.0000
+weekend_23 r=200: frac_pos obs=0.966 null=0.957 p=0.0279 | meanG obs=1.279 null=2.402 p=1.0000
+weekend_23 r=300: frac_pos obs=0.984 null=0.979 p=0.0659 | meanG obs=1.633 null=2.731 p=1.0000
+weekend_23 r=500: frac_pos obs=0.995 null=0.992 p=0.0419 | meanG obs=2.079 null=3.018 p=1.0000
+wardperm 0
+wardperm 50
+wardperm 100
+wardperm 150
+wardperm 200
+wardperm 250
+wardperm 300
+wardperm 350
+wardperm 400
+wardperm 450
+ward r=100: frac_pos obs=0.830 null=0.873 p=1.0000 | meanG obs=0.788 null=1.671 p=1.0000
+ward r=200: frac_pos obs=0.964 null=0.957 p=0.0519 | meanG obs=1.322 null=2.271 p=1.0000
+ward r=300: frac_pos obs=0.983 null=0.979 p=0.0938 | meanG obs=1.678 null=2.545 p=1.0000
+ward r=500: frac_pos obs=0.995 null=0.992 p=0.0519 | meanG obs=2.103 null=2.789 p=1.0000
+done
