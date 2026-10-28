@@ -22,5 +22,6 @@
 | 18 | Figure/table content vs canonical values | PASS (tables generated from canon; spot-checked) |
 | 19 | Traceability map zero mismatches | PASS (NUMERICAL_PROVENANCE_MAP.csv) |
 | 20 | Scientific content unchanged | PASS (values identical to frozen PRE_QC_FREEZE set) |
+| 21 | No stale/duplicate figure or table artifacts in final ZIP | PASS (8 stale figure names x2 formats removed; 1:1 map verified; FINAL_FIGURE_PACKAGE_AUDIT) |
 
-Overall: 20/20 PASS.
+Overall: 21/21 PASS.
