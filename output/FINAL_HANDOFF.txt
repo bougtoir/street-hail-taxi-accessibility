@@ -1,0 +1,15 @@
+FINAL HANDOFF - street-hail-taxi FINAL_QC package
+
+Package: output/CEUS_submission_FINAL_QC.zip
+- CEUS_MAIN_MANUSCRIPT_FINAL_QC.docx / .pdf (inline figures, Vancouver refs)
+- CEUS_COVER_LETTER_FINAL_QC.docx
+- CEUS_HIGHLIGHTS_FINAL_QC.docx
+- figures fig1_framework..fig9_heterogeneity (pdf+png)
+- tables CSVs + canonical_results.json
+- all FINAL_* audit files + matrices
+
+Reproduction: PUBLIC PARTIAL REPRODUCTION
+(public repo manuscript-stage rebuild verified byte-identical; raw stage
+re-downloads public OSM/NLNI data)
+
+FINAL DECISION: SUBMISSION READY
