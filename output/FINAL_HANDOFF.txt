@@ -1,0 +1,21 @@
+FINAL HANDOFF - street-hail-taxi FINAL_LOCKED package
+
+Package: output/CEUS_submission_FINAL_LOCKED.zip
+- CEUS_MAIN_MANUSCRIPT_FINAL_QC.docx / .pdf
+- CEUS_COVER_LETTER_FINAL_QC.docx, CEUS_HIGHLIGHTS_FINAL_QC.docx
+- exactly one canonical file pair (pdf+png) per Figure 1-9
+- canonical tables/CSVs + canonical_results.json + perm_null_arrays.npz
+- all FINAL_* audit files + manifests (63 entries, all canonical_yes_no=YES)
+
+Confirmations:
+- scientific analysis unchanged; no numerical results changed
+- no manuscript wording changed
+- stale figure artifacts removed (16 files)
+- exactly one canonical submission file per final figure; no orphans; none missing
+- no stale tables
+- ZIP manifest matches actual contents exactly
+- previous QC remains PASS; package cleanliness PASS (21/21)
+- remaining author-only items: none beyond normal submission steps
+- canonical PR: https://github.com/bougtoir/wip/pull/747
+
+FINAL DECISION: SUBMISSION READY - LOCKED

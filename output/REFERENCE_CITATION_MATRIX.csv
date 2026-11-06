@@ -1,0 +1,11 @@
+n,ref_id,cited_in_text,in_bibliography,status
+1,tfinder,yes,yes,ok
+2,yang2010,yes,yes,ok
+3,taxi_demand,yes,yes,ok
+4,taxi_demand2,yes,yes,ok
+5,taxi_stand,yes,yes,ok
+6,pudo,yes,yes,ok
+7,hakusyo2025,yes,yes,ok
+8,osm,yes,yes,ok
+9,nlni,yes,yes,ok
+10,monitor,yes,yes,ok

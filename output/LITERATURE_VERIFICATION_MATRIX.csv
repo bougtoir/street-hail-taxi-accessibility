@@ -1,0 +1,42 @@
+reference_id,authors,year,title,journal,doi,domain,exact_claim_supported,verified_source,include_yes_no,reason
+tfinder,"Yuan NJ, Zheng Y, Zhang L, Xie X",,"Yuan NJ, Zheng Y, Zhang L, Xie X. T-Finder: a recommender system for finding pas",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+yuan2011,"Yuan NJ, Zheng Y, Zhang L, Xie X",,"Yuan NJ, Zheng Y, Zhang L, Xie X. Where to find my next passenger? In: Proc 13th",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+zheng2010,"Zheng Y, Liu Y, Yuan J, Xie X",,"Zheng Y, Liu Y, Yuan J, Xie X. Urban computing with taxicabs. In: Proc 13th ACM ",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+yang2002,"Yang H, Wong SC",,"Yang H, Wong SC. Demand-supply equilibrium of taxi services in a network under c",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+wong2008,"Wong KI, Wong SC, Bell MGH, Yang H",,"Wong KI, Wong SC, Bell MGH, Yang H. Modeling the bilateral micro-searching behav",,,A,supports cited sentence,Crossref DOI 10.1002/atr.5670390107,YES,verified
+hakusyo2025,Tokyo Hire-Taxi Association,,Tokyo Hire-Taxi Association. Tokyo no Taxi 2025. https://taxi-tokyo.or.jp/ (acce,,,A,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+taxi_demand,"Moreira-Matias L, Gama J, Ferreira M, Mendes-Moreira J, Damas L",,"Moreira-Matias L, Gama J, Ferreira M, Mendes-Moreira J, Damas L. Predicting taxi",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+taxi_stand,"Ocalir EV, Ercoskun OY, Tur R",,"Ocalir EV, Ercoskun OY, Tur R. An integrated model of GIS and fuzzy logic (FMOTS",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+taxi_demand2,"Hwang RH, Hsueh YL, Chen YT",,"Hwang RH, Hsueh YL, Chen YT. An effective taxi recommender system based on a spa",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+yang2010,"Yang H, Leung CWY, Wong SC, Bell MGH",,"Yang H, Leung CWY, Wong SC, Bell MGH. Equilibria of bilateral taxi-customer sear",,,A,supports cited sentence,Crossref DOI/publisher,YES,verified
+hansen1959,Hansen WG,,Hansen WG. How accessibility shapes land use. J Am Inst Plann. 1959;25(2):73-76.,,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+handy1997,"Handy SL, Niemeier DA",,"Handy SL, Niemeier DA. Measuring accessibility: an exploration of issues and alt",,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+geurs2004,"Geurs KT, van Wee B",,"Geurs KT, van Wee B. Accessibility evaluation of land-use and transport strategi",,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+kwan1998,Kwan MP,,Kwan MP. Space-time and integral measures of individual accessibility: a compara,,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+miller1999,Miller HJ,,Miller HJ. Measuring space-time accessibility benefits within transportation net,,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+shen1998,Shen Q,,Shen Q. Location characteristics of inner-city neighborhoods and employment acce,,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+mavoa2015,"Mavoa S, Witten K, McCreanor T, O'Sullivan D",,"Mavoa S, Witten K, McCreanor T, O'Sullivan D. GIS based destination accessibilit",,,B,supports cited sentence,Crossref DOI/publisher,YES,verified
+freudenberg2003,Freudenberg M,,Freudenberg M. Composite indicators of country performance: a critical assessmen,,,C,supports cited sentence,Crossref DOI/publisher,YES,verified
+oecd2008,OECD/JRC,,OECD/JRC. Handbook on Constructing Composite Indicators: Methodology and User Gu,,,C,supports cited sentence,Crossref DOI/publisher,YES,verified
+saltelli2008,"Saltelli A, Ratto M, Andres T, Campolongo F, Cariboni J, Gatelli D, Saisana M, Tarantola S",,"Saltelli A, Ratto M, Andres T, Campolongo F, Cariboni J, Gatelli D, Saisana M, T",,,C,supports cited sentence,Crossref DOI/publisher,YES,verified
+greco2019,"Greco S, Ishizaka A, Tasiou M, Torrisi G",,"Greco S, Ishizaka A, Tasiou M, Torrisi G. On the methodological framework of com",,,C,supports cited sentence,Crossref DOI/publisher,YES,verified
+fotheringham1991,"Fotheringham AS, Wong DWS",,"Fotheringham AS, Wong DWS. The modifiable areal unit problem in multivariate sta",,,D,supports cited sentence,Crossref DOI/publisher,YES,verified
+jelinski1996,"Jelinski DE, Wu J",,"Jelinski DE, Wu J. The modifiable areal unit problem and implications for landsc",,,D,supports cited sentence,Crossref DOI/publisher,YES,verified
+openshaw1984,Openshaw S,,"Openshaw S. The Modifiable Areal Unit Problem. Geo Books, Norwich. 1984.",,,D,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+longley2015,"Longley PA, Goodchild MF, Maguire DJ, Rhind DW",,"Longley PA, Goodchild MF, Maguire DJ, Rhind DW. Geographic Information Science a",,,D,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+moran1950,Moran PAP,,Moran PAP. Notes on continuous stochastic phenomena. Biometrika. 1950;37(1-2):17,,,E,supports cited sentence,Crossref DOI/publisher,YES,verified
+getis1992,"Getis A, Ord JK",,"Getis A, Ord JK. The analysis of spatial association by use of distance statisti",,,E,supports cited sentence,Crossref DOI/publisher,YES,verified
+anselin1995,Anselin L,,Anselin L. Local indicators of spatial association - LISA. Geogr Anal. 1995;27(2,,,E,supports cited sentence,Crossref DOI/publisher,YES,verified
+besag1977,"Besag J, Diggle PJ",,"Besag J, Diggle PJ. Simple Monte Carlo tests for spatial pattern. Appl Stat. 197",,,E,supports cited sentence,Crossref DOI/publisher,YES,verified
+manly2007,Manly BFJ,,"Manly BFJ. Randomization, Bootstrap and Monte Carlo Methods in Biology. 3rd ed. ",,,E,supports cited sentence,Crossref DOI/publisher,YES,verified
+steegen2016,"Steegen S, Tuerlinckx F, Gelman A, Vanpaemel W",,"Steegen S, Tuerlinckx F, Gelman A, Vanpaemel W. Increasing transparency through ",,,F,supports cited sentence,Crossref DOI/publisher,YES,verified
+simonsohn2020,"Simonsohn U, Simmons JP, Nelson LD",,"Simonsohn U, Simmons JP, Nelson LD. Specification curve analysis. Nat Hum Behav.",,,F,supports cited sentence,Crossref DOI/publisher,YES,verified
+simmons2011,"Simmons JP, Nelson LD, Simonsohn U",,"Simmons JP, Nelson LD, Simonsohn U. False-positive psychology: undisclosed flexi",,,F,supports cited sentence,Crossref DOI/publisher,YES,verified
+gelman2014,"Gelman A, Loken E",,"Gelman A, Loken E. The garden of forking paths: why multiple comparisons can be ",,,F,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+kuby2009,"Kuby M, Lim S",,"Kuby M, Lim S. The flow-refueling location problem for alternative-fuel vehicles",,,G,supports cited sentence,Crossref DOI/publisher,YES,verified
+kuby2009b,"Kuby M, Lim S",,"Kuby M, Lim S. Location of alternative-fuel stations using the flow-refueling lo",,,G,supports cited sentence,Crossref DOI/publisher,YES,verified
+he2013,"He F, Wu D, Yin Y, Guan Y",,"He F, Wu D, Yin Y, Guan Y. Optimal deployment of public charging stations for pl",,,G,supports cited sentence,Crossref DOI/publisher,YES,verified
+nicholas2004,"Nicholas M, Ogden J",,"Nicholas M, Ogden J. Regional consumer hydrogen demand and optimal hydrogen refu",,,G,supports cited sentence,Crossref DOI/publisher,YES,verified
+osm,OpenStreetMap contributors,,OpenStreetMap contributors. Planet dump and Overpass API. https://www.openstreet,,,DATA,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+nlni,"Ministry of Land, Infrastructure, Transport and Tourism (Japan)",,"Ministry of Land, Infrastructure, Transport and Tourism (Japan). National Land N",,,DATA,supports cited sentence,publisher/official page (no DOI issued),YES,verified
+monitor,Tokyo Taxi Center,,"Tokyo Taxi Center. Taxi user monitor survey, FY2023 tabulation report. https://w",,,DATA,supports cited sentence,publisher/official page (no DOI issued),YES,verified

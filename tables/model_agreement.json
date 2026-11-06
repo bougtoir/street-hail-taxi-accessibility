@@ -1,0 +1,12 @@
+{
+ "spearman": {
+  "A_A_weekday_17~A_B_weekday_17": 0.8657728913297386,
+  "A_A_weekday_17~A_C_weekday_17": 0.9549289700049413,
+  "A_B_weekday_17~A_C_weekday_17": 0.8466400690828331
+ },
+ "jaccard_top1pct": {
+  "A_A_weekday_17~A_B_weekday_17": 0.4479166666666667,
+  "A_A_weekday_17~A_C_weekday_17": 0.6848484848484848,
+  "A_B_weekday_17~A_C_weekday_17": 0.6746987951807228
+ }
+}

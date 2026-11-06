@@ -1,0 +1,19 @@
+figure_number,caption_short,canonical_source_file,canonical_submission_file,first_body_citation,keep_yes_no
+1,Internal stress-test workflow,figures/fig1_framework.png,figures/fig1_framework.png,§1 end,YES
+1,Internal stress-test workflow,figures/fig1_framework.pdf,figures/fig1_framework.pdf,§1 end,YES
+2,Modeled opportunity surface map,figures/fig2_map.png,figures/fig2_map.png,§3.1,YES
+2,Modeled opportunity surface map,figures/fig2_map.pdf,figures/fig2_map.pdf,§3.1,YES
+3,Apparent self-optimization gains by radius,figures/fig3_gain_by_radius.png,figures/fig3_gain_by_radius.png,§3.2,YES
+3,Apparent self-optimization gains by radius,figures/fig3_gain_by_radius.pdf,figures/fig3_gain_by_radius.pdf,§3.2,YES
+4,Local optimization worked example,figures/fig4_worked_example.png,figures/fig4_worked_example.png,§3.2,YES
+4,Local optimization worked example,figures/fig4_worked_example.pdf,figures/fig4_worked_example.pdf,§3.2,YES
+5,Mean modeled score by strategy,figures/fig5_strategies.png,figures/fig5_strategies.png,§3.3,YES
+5,Mean modeled score by strategy,figures/fig5_strategies.pdf,figures/fig5_strategies.pdf,§3.3,YES
+6,Component ablation across radii,figures/fig6_ablation.png,figures/fig6_ablation.png,§3.4,YES
+6,Component ablation across radii,figures/fig6_ablation.pdf,figures/fig6_ablation.pdf,§3.4,YES
+7,Transfer matrix at 300 m,figures/fig7_transfer_matrix.png,figures/fig7_transfer_matrix.png,§3.5,YES
+7,Transfer matrix at 300 m,figures/fig7_transfer_matrix.pdf,figures/fig7_transfer_matrix.pdf,§3.5,YES
+8,Observed vs permutation null,figures/fig8_permutation_null.png,figures/fig8_permutation_null.png,§3.6,YES
+8,Observed vs permutation null,figures/fig8_permutation_null.pdf,figures/fig8_permutation_null.pdf,§3.6,YES
+9,Modeled gain by hour/ward/radius,figures/fig9_heterogeneity.png,figures/fig9_heterogeneity.png,§3.8,YES
+9,Modeled gain by hour/ward/radius,figures/fig9_heterogeneity.pdf,figures/fig9_heterogeneity.pdf,§3.8,YES
