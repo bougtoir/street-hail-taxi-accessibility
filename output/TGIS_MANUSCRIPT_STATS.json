@@ -1,0 +1,23 @@
+{
+ "title": "Optimization gain is not proxy validity: internal stress tests for constructed spatial opportunity surfaces without outcome labels",
+ "title_chars": 130,
+ "running_title": "Optimization gain is not proxy validity",
+ "running_title_chars": 39,
+ "main_text_words": 5722,
+ "abstract_words": 135,
+ "keywords": [
+  "geocomputation",
+  "geographic representation",
+  "spatial data uncertainty",
+  "spatial decision support",
+  "spatial null models",
+  "spatial optimization"
+ ],
+ "n_references": 51,
+ "n_tables": 5,
+ "n_figures": 9,
+ "n_equations": 3,
+ "review_mode": "public_github",
+ "repo_url": "https://github.com/bougtoir/street-hail-taxi-accessibility",
+ "cover_letter_words": 582
+}

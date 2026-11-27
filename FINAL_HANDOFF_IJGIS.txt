@@ -1,0 +1,34 @@
+FINAL HANDOFF — IJGIS (International Journal of Geographical Information Science)
+
+DECISION: IJGIS SUBMISSION CONDITIONAL GO
+
+Journal: International Journal of Geographical Information Science (Taylor & Francis; Q1; hybrid Open Select, no mandatory APC)
+Article type: Research Article (IJGIS_ARTICLE_TYPE_DECISION.md)
+Title (130 chars): Optimization gain is not proxy validity: internal stress tests for constructed spatial opportunity surfaces without outcome labels
+Word counts: main text 5,418; abstract 169 (<=200); keywords 5
+References: 44 (41 retained + 3 IJGIS GIScience additions), T&F Reference Style V (Harvard author-date), alphabetical
+Figures/tables: 9 figures + 5 tables inline after first citation; separate figure files PNG/PDF
+QC gates: 25/25 automated PASS (analysis/qc_ijgis.py) + 9 additional gates (IJGIS_FINAL_QC_REPORT.md)
+Scientific freeze: canonical_results.json, tables/, figures/ unchanged (PRE_IJGIS_FREEZE.md)
+Branch: devin/1794303930-ijgis (base f51d0bb8057001af20871fb63f5f42bd0e48315a)
+PR_URL: https://github.com/bougtoir/wip/pull/803 (do not merge without instruction)
+Content commit: 1c1561b6b (this handoff and the locked ZIP are refreshed in the following commit; see git log)
+Public sync: NOT pushed. Analysis code/data are unchanged, so the public mirror is already current for code/data. IJGIS manuscript, title and author-bearing builders are deliberately withheld from the public mirror and the sync branch devin/1790678085-street-hail-taxi (IJGIS preprint/double-anonymous policy). Existing public CEUS manuscript files untouched pending author decision.
+
+Submission files (IJGIS_submission_FINAL_LOCKED.zip):
+  output/IJGIS_MAIN_MANUSCRIPT_BLINDED.docx / .pdf  (for review)
+  output/IJGIS_TITLE_PAGE.docx                      (not for review)
+  output/IJGIS_COVER_LETTER.docx
+  figures/fig1..fig9 (.png, .pdf)
+Anonymized review bundle: output/IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip (upload to Figshare as private item)
+
+AUTHOR_ACTIONS_REQUIRED
+ 1. Public mirror bougtoir/street-hail-taxi-accessibility contains earlier (CEUS) manuscripts naming the author, also in git history. Decide: remove from current tree, set repository private during review, or leave and rely on the cover-letter disclosure. (No history rewrite was done.)
+ 2. Upload IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip to Figshare as a private item; paste the private sharing link into the Data and codes availability statement (placeholder [FIGSHARE PRIVATE SHARING LINK]) and title page; rebuild.
+ 3. Confirm licences (code MIT; derived tables CC BY 4.0) and add a LICENSE file to the public mirror if agreed.
+ 4. Fill affiliation, institutional email (required by IJGIS) and ORCID on the title page and cover letter.
+ 5. Confirm no preprint was posted independently; confirm abstract (<=200) and keyword (2-5) limits in ScholarOne (official section unreadable behind Cloudflare).
+ 6. Confirm AI-use statement wording (Devin, Cognition AI) and the disclosure/funding statements.
+ 7. Optional: ask the editorial office about the public repository before submission.
+
+Known limitations (disclosed): original data/raw snapshots from earlier sessions were git-ignored and absent; Overpass responses (cache/) are archived and rebuild the walk network with identical counts; POI re-query failed on 2026-11-10; re-acquired files in data/raw/source_redownload_20261110/ (local).

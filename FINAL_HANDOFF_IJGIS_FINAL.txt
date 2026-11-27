@@ -1,0 +1,34 @@
+FINAL HANDOFF - IJGIS (v2, 2026-11-10)
+
+FINAL DECISION: IJGIS SUBMISSION GO
+(Administrative blockers resolved. Deviation: Zenodo private draft used instead of Figshare. Disclosed residual anonymity risks: see below.)
+
+Article type: Research Article
+Title: Optimization gain is not proxy validity: internal stress tests for constructed spatial opportunity surfaces without outcome labels
+Main text 5,418 words; abstract 169; keywords 5; references 44; figures 9 and tables 5, inline.
+
+Private review deposit: Zenodo unpublished draft, record 24106479. Not published, no DOI reserved or minted.
+  Link: direct file-download URL with a preview access token (analysis/review_access.json). Verified unauthenticated; SHA-256 813a334f...28791 matches the bundle. Record URL without the token returns 404.
+  Identity exposure: rendered page shows "Anonymous". The landing-page HTML source contains the owner profile, so the manuscript uses the direct-download URL. Residual risk LOW (deliberate URL editing needed).
+GitHub mirror bougtoir/street-hail-taxi-accessibility: PRIVATE (verified 2026-11-10T12:22:50Z: API private, unauthenticated 404). History, branches and code untouched.
+Anonymity: PASS (IJGIS_FINAL_ANONYMITY_AUDIT.md). Residuals: Zenodo source page; caches from the earlier public period.
+Preprint policy: no preprint-server deposit; earlier public repository disclosed in the cover letter; residual discoverability LOW-MEDIUM.
+FAIR: review-stage compliant; public DOI archive after acceptance (IJGIS_DATA_CODE_AVAILABILITY_PLAN.md).
+Scientific freeze: unchanged. canonical_results.json SHA-256 ee1ce5bb26df5605aec7b803c459056b525de133b7f1d9bf8e81d448e33a22ac
+QC: 25/25 automated PASS; 22/22 required gates PASS (IJGIS_FINAL_QC_REPORT_v2.md).
+
+UPLOAD TO SCHOLARONE:
+  1. IJGIS_MAIN_MANUSCRIPT_BLINDED_FINAL.docx  (Main Document, blinded)
+  2. IJGIS_TITLE_PAGE_FINAL.docx               (Title page, NOT for review)
+  3. IJGIS_COVER_LETTER_FINAL.docx             (Cover letter)
+  (The PDF is for checking only. Figures and tables are inline. Do NOT upload the anonymized ZIP; reviewers get it through the link.)
+
+REMAINING AUTHOR ACTIONS:
+  - In ScholarOne: enter the metadata (title, abstract, keywords, institutional e-mail, ORCID) and confirm the abstract and keyword limits.
+  - Check the AI-use and disclosure statements, and the title-page author block (taken from your existing author block).
+  - Keep the Zenodo draft UNPUBLISHED and the GitHub repository PRIVATE until a decision is made.
+  - After acceptance: make GitHub public again; publish an archival deposit with a DOI; update the availability statement.
+  - Optional: license confirmation (code MIT, derived data CC BY 4.0).
+
+PR: https://github.com/bougtoir/wip/pull/803 (branch devin/1794303930-ijgis). NOT merged; merge only on the author's instruction.
+Public sync: intentionally not performed (the mirror is private during review; IJGIS manuscript files are withheld from the mirror).

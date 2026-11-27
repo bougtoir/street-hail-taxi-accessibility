@@ -1,0 +1,8 @@
+data/raw/
+data/processed/relocation_results.parquet
+data/processed/reach.json
+data/processed/reach_index.npy
+data/processed/segments*.parquet
+data/processed/segments.geojson
+data/processed/edge_ward.parquet
+data/processed/relocation.log

@@ -1,0 +1,176 @@
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:82: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  st_xy = np.c_[st.geometry.centroid.x, st.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:101: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  txy = np.c_[pts.geometry.centroid.x, pts.geometry.centroid.y]
+loading drive graph
+stations in/near area: 329
+segments: 29165 | hail_ok: 27887
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:82: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  st_xy = np.c_[st.geometry.centroid.x, st.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:101: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  txy = np.c_[pts.geometry.centroid.x, pts.geometry.centroid.y]
+loading drive graph
+stations in/near area: 329
+segments: 29165 | hail_ok: 27887
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:82: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  st_xy = np.c_[st.geometry.centroid.x, st.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:93: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  xy = np.c_[f.geometry.centroid.x, f.geometry.centroid.y]
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/build_segments.py:101: UserWarning: Geometry is in a geographic CRS. Results from 'centroid' are likely incorrect. Use 'GeoSeries.to_crs()' to re-project geometries to a projected CRS before this operation.
+
+  txy = np.c_[pts.geometry.centroid.x, pts.geometry.centroid.y]
+loading drive graph
+stations in/near area: 329
+segments: 29165 | hail_ok: 27887
+computing reachable sets for 2000 origins
+loaded cached reach sets
+evaluating strategies
+  eval 0 120
+  eval 400 47970
+  eval 800 95430
+  eval 1200 143100
+  eval 1600 190710
+rows 238380
+done
+/home/ubuntu/repos/wip/street-hail-taxi/analysis/analyze_stats.py:92: FutureWarning: DataFrameGroupBy.apply operated on the grouping columns. This behavior is deprecated, and in a future version of pandas the grouping columns will be excluded from the operation. Either pass `include_groups=False` to exclude the groupings or explicitly select the grouping columns after groupby to silence this warning.
+  t7 = d.groupby("radius").apply(lambda s: pd.Series({
+   model  radius      n  frac_any_gain  frac_gain_gt_0.1sd  mean_G_A  median_G_A       mean_G_A_ci  median_RAG  median_walk_m  opt_gt_random  opt_gt_nearmajor  mean_diff_nearmajor diff_nearmajor_ci  opt_gt_bestmajor  best_is_major
+0    A_A     100  19610          0.853               0.494     0.728       0.093  [0.7144, 0.7422]       0.181         66.759          0.938             0.619                0.053  [0.0508, 0.0555]             0.000          0.249
+1    A_A     200  19890          0.969               0.810     1.261       1.079  [1.2465, 1.2755]       1.893        160.349          0.994             0.768                0.109  [0.1057, 0.1118]             0.000          0.419
+2    A_A     300  19970          0.984               0.926     1.639       1.583  [1.6239, 1.6533]       2.764        250.981          0.998             0.835                0.174  [0.1697, 0.1778]             0.001          0.560
+3    A_A     500  19990          0.995               0.979     2.130       2.210  [2.1152, 2.1445]       3.837        432.291          1.000             0.904                0.320   [0.3142, 0.325]             0.004          0.755
+4    A_B     100  19610          0.832               0.687     0.824       0.288  [0.8105, 0.8386]       0.470         61.535          0.938             0.598                0.099  [0.0952, 0.1027]             0.000          0.249
+5    A_B     200  19890          0.961               0.890     1.381       1.237  [1.3659, 1.3964]       2.043        146.517          0.994             0.725                0.154  [0.1503, 0.1576]             0.000          0.419
+6    A_B     300  19970          0.982               0.951     1.755       1.755   [1.7398, 1.771]       2.966        235.427          0.998             0.802                0.215  [0.2107, 0.2183]             0.000          0.561
+7    A_B     500  19990          0.996               0.986     2.213       2.287   [2.1983, 2.227]       3.868        407.543          1.000             0.891                0.328  [0.3241, 0.3328]             0.001          0.758
+8    A_C     100  19610          0.839               0.673     0.685       0.264  [0.6736, 0.6973]       0.513         62.382          0.938             0.598                0.092  [0.0886, 0.0955]             0.000          0.249
+9    A_C     200  19890          0.966               0.905     1.164       1.047   [1.1515, 1.176]       1.672        150.030          0.994             0.740                0.150  [0.1468, 0.1539]             0.000          0.419
+10   A_C     300  19970          0.984               0.958     1.500       1.501  [1.4875, 1.5124]       2.335        242.376          0.998             0.815                0.223   [0.219, 0.2268]             0.001          0.560
+11   A_C     500  19990          0.995               0.985     1.931       1.983   [1.9192, 1.943]       3.107        421.733          1.000             0.908                0.371   [0.3659, 0.376]             0.013          0.748
+agreement: {
+ "spearman": {
+  "A_A_weekday_17~A_B_weekday_17": 0.8657728913297386,
+  "A_A_weekday_17~A_C_weekday_17": 0.9549289700049413,
+  "A_B_weekday_17~A_C_weekday_17": 0.8466400690828331
+ },
+ "jaccard": {
+  "A_A_weekday_17~A_B_weekday_17": 0.4479166666666667,
+  "A_A_weekday_17~A_C_weekday_17": 0.6848484848484848,
+  "A_B_weekday_17~A_C_weekday_17": 0.6746987951807228
+ }
+}
+done
+       spearman  jaccard_top1pct
+spec                            
+ATTR      0.692            0.052
+PROXY     0.920            0.667
+ROAD      0.594            0.109
+   0 160
+   400 63960
+   800 127240
+   1200 190800
+   1600 254280
+     spec  radius      n  frac_pos  frac_gt_01  mean_G  med_G              ci_G  gt_rand  gt_nearmaj  diff_nearmaj   diff_nearmaj_ci  wilcoxon_p  best_is_major
+2    ATTR     300  19970     0.990       0.920   0.454  0.407  [0.4505, 0.4582]    0.998       0.991         0.411  [0.4055, 0.4169]         0.0          0.115
+6    COMB     300  19970     0.984       0.958   1.500  1.501   [1.487, 1.5126]    0.998       0.815         0.223  [0.2187, 0.2271]         0.0          0.560
+10  PROXY     300  19970     0.984       0.926   1.639  1.583  [1.6232, 1.6534]    0.998       0.835         0.174  [0.1698, 0.1777]         0.0          0.560
+14   ROAD     300  19970     0.953       0.951   1.841  1.804    [1.825, 1.857]    0.998       0.664         0.373  [0.3655, 0.3802]         0.0          0.548
+done
+     spec  radius  n_origins  n_rows  frac_pos                               frac_pos_ci  frac_gt_01  mean_G                                       ci_G  gt_rand  gt_nearmaj  diff_nearmaj                            diff_nearmaj_ci  wilcoxon_p  best_is_major
+2    ATTR     300       1997   19970     0.990   [0.985478217325989, 0.9939909864797196]       0.920   0.454  [0.4423882923915857, 0.46643037135479776]    0.998       0.991         0.411  [0.3923409865176066, 0.42971972700882555]         0.0          0.115
+6    COMB     300       1997   19970     0.984   [0.9792188282423635, 0.989134952428643]       0.958   1.500   [1.4617260546515896, 1.5390870712050202]    0.998       0.815         0.223  [0.21117390645170625, 0.2349538476276946]         0.0          0.560
+10  PROXY     300       1997   19970     0.984  [0.9786680020030045, 0.9879819729594391]       0.926   1.639    [1.591804776004036, 1.6861225177386778]    0.998       0.835         0.174  [0.1643978092860899, 0.18295028016103035]         0.0          0.560
+14   ROAD     300       1997   19970     0.953  [0.9439158738107161, 0.9624436654982473]       0.951   1.841   [1.7938266526332298, 1.8892614188583285]    0.998       0.664         0.373   [0.3501105928100293, 0.3953769008471355]         0.0          0.548
+   selector evaluator  radius  mean_TG  med_TG                                          ci_TG  frac_pos  frac_gt_01
+2      ATTR      COMB     300    0.357   0.231       [0.3128642070178693, 0.4023860633434688]     0.689       0.614
+6      ATTR     PROXY     300    0.265   0.096        [0.2136672708427709, 0.316655789765478]     0.691       0.492
+10     ATTR      ROAD     300    0.082   0.000    [0.021024417895701048, 0.14107944065017392]     0.435       0.427
+14    PROXY      ATTR     300    0.191   0.177  [-0.04122518337881493, -0.010059269295205233]     0.726       0.593
+18    PROXY      COMB     300    1.463   1.453        [1.4238057856602993, 1.502673527585026]     0.965       0.940
+22    PROXY      ROAD     300    1.577   1.592        [1.484724076408188, 1.5874785345142504]     0.873       0.867
+26     ROAD      ATTR     300    0.038   0.012    [0.025234186319645854, 0.05124366845658259]     0.528       0.361
+30     ROAD      COMB     300    1.365   1.367       [1.3248732656671565, 1.4060578921784153]     0.928       0.891
+34     ROAD     PROXY     300    1.480   1.457         [1.43369018429888, 1.5256484666612968]     0.896       0.831
+perm weekday_17 0
+perm weekday_17 50
+perm weekday_17 100
+perm weekday_17 150
+perm weekday_17 200
+perm weekday_17 250
+perm weekday_17 300
+perm weekday_17 350
+perm weekday_17 400
+perm weekday_17 450
+weekday_17 r=100: frac_pos obs=0.839 null=0.874 p=1.0000 | meanG obs=0.689 null=1.673 p=1.0000
+weekday_17 r=200: frac_pos obs=0.966 null=0.957 p=0.0299 | meanG obs=1.166 null=2.300 p=1.0000
+weekday_17 r=300: frac_pos obs=0.983 null=0.979 p=0.0739 | meanG obs=1.499 null=2.608 p=1.0000
+weekday_17 r=500: frac_pos obs=0.995 null=0.992 p=0.0858 | meanG obs=1.919 null=2.897 p=1.0000
+perm weekend_23 0
+perm weekend_23 50
+perm weekend_23 100
+perm weekend_23 150
+perm weekend_23 200
+perm weekend_23 250
+perm weekend_23 300
+perm weekend_23 350
+perm weekend_23 400
+perm weekend_23 450
+weekend_23 r=100: frac_pos obs=0.842 null=0.873 p=1.0000 | meanG obs=0.657 null=1.692 p=1.0000
+weekend_23 r=200: frac_pos obs=0.968 null=0.957 p=0.0020 | meanG obs=1.120 null=2.355 p=1.0000
+weekend_23 r=300: frac_pos obs=0.985 null=0.979 p=0.0200 | meanG obs=1.449 null=2.693 p=1.0000
+weekend_23 r=500: frac_pos obs=0.995 null=0.992 p=0.0339 | meanG obs=1.884 null=3.021 p=1.0000
+wardperm 0
+wardperm 50
+wardperm 100
+wardperm 150
+wardperm 200
+wardperm 250
+wardperm 300
+wardperm 350
+wardperm 400
+wardperm 450
+ward r=100: frac_pos obs=0.839 null=0.873 p=1.0000 | meanG obs=0.689 null=1.616 p=1.0000
+ward r=200: frac_pos obs=0.966 null=0.957 p=0.0220 | meanG obs=1.166 null=2.210 p=1.0000
+ward r=300: frac_pos obs=0.983 null=0.979 p=0.0699 | meanG obs=1.499 null=2.505 p=1.0000
+ward r=500: frac_pos obs=0.995 null=0.992 p=0.0838 | meanG obs=1.919 null=2.804 p=1.0000
+done
+ALL_DONE

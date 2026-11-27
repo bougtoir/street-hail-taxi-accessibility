@@ -1,0 +1,23 @@
+package/citation metadata files: []
+EMAIL ./data/processed/ablation_results.parquet b'WX7f@t.aE'
+EMAIL ./figures/fig2_map.pdf b'3@Y.VN'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'Shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'Shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'Shiga'
+NAME ./cache/3d5c1da6b4d988b1a062859817f63f4c4a4db750.json b'shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'Shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'Shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'Shiga'
+NAME ./cache/8ea0b4fa44dae7ccafc855cd546fc0fd48bc1a78.json b'shiga'
+NAME ./cache/4339f7fa4963a246c63c61fb15bc11088ea06173.json b'Shiga'
+NAME ./cache/4339f7fa4963a246c63c61fb15bc11088ea06173.json b'Shiga'
+identifying hits: 20
+cache third-party e-mails (OSM POI contact tags): 50

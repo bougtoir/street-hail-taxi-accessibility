@@ -1,0 +1,127 @@
+[
+ {
+  "gate": "G01 canonical_results.json unchanged vs pre-IJGIS freeze",
+  "status": "PASS",
+  "detail": "ee1ce5bb26df5605aec7b803c459056b525de133b7f1d9bf8e81d448e33a22ac"
+ },
+ {
+  "gate": "G02 no hard-coded canonical result literals in _lit_body.py",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G03 build_manuscript_ijgis.py == head+body",
+  "status": "PASS",
+  "detail": ""
+ },
+ {
+  "gate": "G04 reference count == bibliography size (all cited)",
+  "status": "PASS",
+  "detail": "44 listed / 44 bib"
+ },
+ {
+  "gate": "G05 references alphabetical (T&F Style V Harvard)",
+  "status": "PASS",
+  "detail": ""
+ },
+ {
+  "gate": "G06 every DOI has an archived Crossref record",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G07 every author-year citation resolves to bibliography",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G08 every bibliography item cited in text",
+  "status": "PASS",
+  "detail": "set()"
+ },
+ {
+  "gate": "G09 all figures cited",
+  "status": "PASS",
+  "detail": "caps=['1', '2', '3', '4', '5', '6', '7', '8', '9'] cited=['1', '2', '3', '4', '5', '6', '7', '8', '9']"
+ },
+ {
+  "gate": "G10 figure first-citation order sequential",
+  "status": "PASS",
+  "detail": "['1', '2', '3', '4', '5', '6', '7', '8', '9']"
+ },
+ {
+  "gate": "G11 all tables cited",
+  "status": "PASS",
+  "detail": "caps=['1', '2', '3', '4', '5'] cited=['1', '2', '3', '4', '5']"
+ },
+ {
+  "gate": "G12 table first-citation order sequential",
+  "status": "PASS",
+  "detail": "['1', '2', '3', '4', '5']"
+ },
+ {
+  "gate": "G13 figures and tables embedded inline",
+  "status": "PASS",
+  "detail": "9 images, 5 tables"
+ },
+ {
+  "gate": "G14 OMML equations present",
+  "status": "PASS",
+  "detail": "10"
+ },
+ {
+  "gate": "G15 no literal asterisks",
+  "status": "PASS",
+  "detail": "0"
+ },
+ {
+  "gate": "G16 no manual line breaks",
+  "status": "PASS",
+  "detail": "0"
+ },
+ {
+  "gate": "G17 language lock (banned phrases absent in all documents)",
+  "status": "PASS",
+  "detail": "{'manuscript': [], 'IJGIS_TITLE_PAGE.docx': [], 'IJGIS_COVER_LETTER.docx': []}"
+ },
+ {
+  "gate": "G18 claim calibration (no external/operational validity claims)",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G19 blinded manuscript free of identity/paths/metadata/comments/tracked changes",
+  "status": "PASS",
+  "detail": "found=[] meta=[] track=0 comments=False hdr=[]"
+ },
+ {
+  "gate": "G20 no stale target-journal wording (CEUS) in IJGIS documents",
+  "status": "PASS",
+  "detail": ""
+ },
+ {
+  "gate": "G21 main text within IJGIS typical 5,000-8,000 words",
+  "status": "PASS",
+  "detail": "5418"
+ },
+ {
+  "gate": "G22 abstract <= 200 words, 2-5 keywords, title present",
+  "status": "PASS",
+  "detail": "abs=169 kw=5"
+ },
+ {
+  "gate": "G23 IJGIS required statements present",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G24 cover-letter numbers identical to manuscript numbers",
+  "status": "PASS",
+  "detail": "[]"
+ },
+ {
+  "gate": "G25 PDF regenerated from current DOCX, title present, no author metadata",
+  "status": "PASS",
+  "detail": "Creator:         Writer | Producer:        LibreOffice 7.3 | CreationDate:    Wed Nov 11 03:47:07 2026 UTC | Custom Metadata: no | Metadata Stream: no | Tagged:          no | UserProperties:  no | Suspects:        no | Form:            none | JavaScript:      no | Pages:           26 | Encrypted:   "
+ }
+]

@@ -1,0 +1,3 @@
+unauth_html 404
+unauth_raw 404
+unauth_git_ls_remote DENIED

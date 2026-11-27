@@ -1,0 +1,31 @@
+FINAL HANDOFF - IJGIS (v2 handoff / v3 package, 2026-11-11)
+
+FINAL DECISION: IJGIS SUBMISSION GO
+
+Article type: Research Article
+Title: Optimization gain is not proxy validity: internal stress tests for constructed spatial opportunity surfaces without outcome labels
+Main text 5,418 words; abstract 169; keywords 5; references 44; figures 9 and tables 5, inline. Science frozen (canonical SHA-256 ee1ce5bb26df5605aec7b803c459056b525de133b7f1d9bf8e81d448e33a22ac).
+
+Reviewer access: Anonymous GitHub snapshot https://anonymous.4open.science/r/anonymous-spatial-proxy-review-7E02/
+  Upstream: private repository with a single fresh root commit (neutral metadata), no ancestry from the development repository.
+  Snapshot fixed to the audited commit (auto-update off); expires 2027-05-11 (extendable by 6 months via the service).
+  External view logged out: no owner, avatar, commit author, e-mail, organization, upstream link or author data. Served files byte-identical to the audited commit.
+Zenodo draft 24106479: SUPERSEDED; removed from all submission documents; left unpublished (no DOI).
+Development repository: PRIVATE (verified 2026-11-11T03:48:38Z). History, branches and code untouched.
+QC: 25/25 automated PASS; 23/23 required gates PASS (IJGIS_FINAL_QC_REPORT_v3.md).
+Residual risks: earlier public period of the development repository (disclosed, LOW-MODERATE); snapshot discoverability LOW.
+
+UPLOAD TO SCHOLARONE:
+  1. IJGIS_MAIN_MANUSCRIPT_BLINDED_FINAL_v2.docx  (Main Document, blinded)
+  2. IJGIS_TITLE_PAGE_FINAL_v2.docx               (Title page, NOT for review)
+  3. IJGIS_COVER_LETTER_FINAL_v2.docx             (Cover letter)
+  (The PDF is for checking only. Reviewers reach the code/data through the URL above.)
+
+REMAINING AUTHOR ACTIONS:
+  - ScholarOne metadata entry; confirm abstract/keyword limits; check AI-use and disclosure statements.
+  - Keep both GitHub repositories PRIVATE and the Zenodo draft UNPUBLISHED during review. Do not push to the review upstream (snapshot is fixed, but keep it clean).
+  - Extend the Anonymous GitHub snapshot before 2027-05-11 if review is still running.
+  - After acceptance: publish code/data with a DOI; update the availability statement.
+
+PR: https://github.com/bougtoir/wip/pull/803 (branch devin/1794303930-ijgis). NOT merged; merge only on the author's instruction.
+Public sync: intentionally not performed during double-anonymized review.

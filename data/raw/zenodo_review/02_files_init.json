@@ -1,0 +1,33 @@
+{
+ "enabled": true,
+ "links": {
+  "self": "https://zenodo.org/api/records/24106479/draft/files"
+ },
+ "entries": [
+  {
+   "created": "2026-11-10T11:31:45.084842+00:00",
+   "updated": "2026-11-10T11:31:45.100851+00:00",
+   "mimetype": "application/zip",
+   "version_id": "f66c6c99-dde1-46a7-aad8-5447bb1f4d24",
+   "file_id": "65d982db-92a1-4109-bed2-a187d84c819e",
+   "bucket_id": "c1c7c40b-73a7-4f3a-b236-8ae154c71ca1",
+   "metadata": null,
+   "access": {
+    "hidden": false
+   },
+   "links": {
+    "self": "https://zenodo.org/api/records/24106479/draft/files/IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip",
+    "content": "https://zenodo.org/api/records/24106479/draft/files/IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip/content",
+    "commit": "https://zenodo.org/api/records/24106479/draft/files/IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip/commit",
+    "container": "https://zenodo.org/api/records/24106479/draft/files/IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip/container"
+   },
+   "key": "IJGIS_ANON_REVIEW_REPRO_BUNDLE.zip",
+   "transfer": {
+    "type": "L"
+   },
+   "status": "pending"
+  }
+ ],
+ "default_preview": null,
+ "order": []
+}

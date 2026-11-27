@@ -1,0 +1,9 @@
+file,source_url,retrieved_utc,bytes,sha256,notes
+ijgis_instructions_webfetch_2026-11-10.md,https://www.tandfonline.com/action/authorSubmission?show=instructions&journalCode=tgis20,2026-11-10T09:51Z,10182,791a0814bfb07034afe9f37960587f2fc8fa4a52c56864309e937070acbc2908,web_get_contents text; truncated by tool after 'Style Guidelines' (page Cloudflare 403 to curl/Chrome)
+ijgis_about_webfetch_2026-11-10.md,https://www.tandfonline.com/journals/tgis20/about-this-journal,2026-11-10T09:51Z,10191,2e1aece808aa8152df0a8696f3f508c0f7fa80d60793a94155f744532544c467,"web_get_contents text; aims/scope, metrics (IF 5.9 Q1), hybrid OA"
+ijgis_datacode_policy_search_snippets_2026-11-10.md,web_search,2026-11-10T09:51Z,14058,0e633579ee3a99098ef9f352d397808707878125870ee1e524a508281489f2a9,search snippets incl. verbatim quote of IJGIS Data and Codes Availability text in doi:10.1080/13658816.2025.2603586
+ijgis_refstyle_search_snippets_2026-11-10.md,web_search,2026-11-10T09:51Z,12855,4af2c7ea5d2a07959f99b9d9dd9276e2e508093657ed26f9b0f9095b171941c3,third-party summaries (scispace/articlo) - non-authoritative
+tf_v.pdf,https://files.taylorandfrancis.com/tf_v.pdf,2026-11-10T09:51Z,293698,59a1af31f2444bc5f52a715153624b57292355a29e321893f1096cca492d6594,T&F Reference Style V (Harvard B) guide
+tf_ai_policy.html,https://taylorandfrancis.com/our-policies/ai-policy/,2026-11-10T09:51Z,111961,bce3958653f3eda1a4b14da4c9d695eff4fe486fee55bb580db9ec94f9befe47,T&F AI policy
+tf_data_sharing_policies.html,https://authorservices.taylorandfrancis.com/data-sharing-policies/,2026-11-10T09:51Z,116817,37ef3d341822d702b9b0790521d639eb066a3353c75a29a3a688f5c33e4d7e22,T&F data sharing policies
+tf_authorship.html,https://authorservices.taylorandfrancis.com/editorial-policies/defining-authorship-research-paper/,2026-11-10T09:51Z,141483,4591ee0ab437ba288b2a6e4eddcf1487fc16cbc8d7662b8877ef8f65a15bc2ec,T&F authorship

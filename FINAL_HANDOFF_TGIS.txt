@@ -1,0 +1,50 @@
+FINAL HANDOFF — Transactions in GIS (Research Article)
+Date: 2026-11-24 (UTC); security update 2026-11-27 (UTC)
+
+DECISION: TGIS SUBMISSION GO
+  (2026-11-27: the security condition is resolved. Zenodo preview link revoked and verified unusable, mirror tree clean, sync exclusion in place,
+  no history purge needed. See TGIS_FINAL_SECURITY_QC_REPORT.md.)
+  Scientific content frozen (canonical registry SHA-256 ee1ce5bb26df5605aec7b803c459056b525de133b7f1d9bf8e81d448e33a22ac, byte-identical).
+  35/35 QC gates PASS (TGIS_FINAL_QC_REPORT.md). Hostile review: no unresolved blocker.
+  Routine check at upload (not a blocker): the TGIS-specific Wiley pages were blocked by Cloudflare for automated access;
+  journal-specific rules were taken from the Wayback capture of the author guidelines dated 2022-03-08 and the
+  journal home dated 2025-07-02, plus live Wiley-wide policies. Before upload, open the current Author Guidelines
+  on Wiley / Research Exchange (https://wiley.atyponrex.com/journal/TGIS) and confirm: single-blind review,
+  abstract <=150 words, 5–6 keywords, separate figure files, tables after references. The package meets the archived rules.
+
+SUBMISSION FILES (submission/ in TGIS_submission_FINAL_LOCKED.zip)
+  TGIS_MAIN_MANUSCRIPT_FINAL.docx  main text, abstract 135 words, 6 keywords, 5,722 words, 51 APA 7 references,
+                                   3 numbered equations (OMML), 5 editable tables after References, 9 figure legends
+  TGIS_MAIN_MANUSCRIPT_FINAL.pdf   PDF rendering (for checking)
+  TGIS_TITLE_PAGE_FINAL.docx       title, running title (39 characters), author, affiliation, e-mail, ORCID, COI, funding, acknowledgments/AI
+  TGIS_COVER_LETTER_FINAL.docx     582 words, single-author voice
+  TGIS_TABLES_EDITABLE.docx        Tables 1–5 (editable copy)
+  tgis_figures/Figure_1–9.png      separate figure files, opaque white background
+
+PORTAL ENTRIES
+  Article type: Research Article. Review: single-blind (author-identified files).
+  Data Availability Statement: as in the manuscript; repository https://github.com/bougtoir/street-hail-taxi-accessibility (public, verified logged-out).
+  COI: none. Funding: none. AI use disclosed in Acknowledgments and Methods.
+  Licence: standard subscription route (OnlineOpen optional).
+
+CHANGES FROM THE PREVIOUS VERSION (no reanalysis)
+  - Author-identified single-blind format; anonymous repository removed from the package.
+  - APA 7 author-date references; 6 TGIS-relevant references added (representation/uncertainty, SDQ, spatial decision support).
+  - Reference correction: Hwang et al. (2015) DOI 10.1016/j.ins.2015.03.068, pages 28–40 (the earlier DOI resolved to an unrelated article).
+  - Abstract shortened to 135 words; keywords 6; light reframing of Introduction/Discussion; five-level evidence hierarchy (Level 5 not performed).
+  - Figures as separate files; tables after References; display equations numbered.
+
+OPEN ITEMS / NOTES
+  - Security incident resolved: an unpublished Zenodo preview link was briefly present in two earlier public-mirror commits
+    (30cb0d6, a1c9f3d). The link was revoked at Zenodo on 2026-11-27 and independently verified unusable (TGIS_ZENODO_PREVIEW_REVOCATION_AUDIT.md).
+    The current mirror tree is clean, the review-credential directory is excluded from future public sync, and no live credentials remain
+    (TGIS_PUBLIC_MIRROR_SECRET_SCAN.md). Historical commits retain only the now-invalid URL; history rewrite was judged unnecessary
+    (TGIS_GIT_HISTORY_PURGE_DECISION.md).
+  - GitHub Actions in bougtoir/wip are refused for billing reasons ("recent account payments have failed or your spending limit needs to be increased");
+    the public mirror was synchronized manually (same tree operation as the sync workflow, data/raw/journal excluded).
+    Future automatic syncs need the Actions billing issue fixed.
+  - Raw-stage limitation (POI Overpass responses not retained) is disclosed; full raw-stage recreation is not claimed.
+  - Publisher guideline captures are kept privately in wip (street-hail-taxi/data/raw/journal, ledger with SHA-256).
+
+GIT
+  Branch devin/1795503313-tgis -> PR to bougtoir/wip master (not merged).

@@ -1,0 +1,17 @@
+FINAL HANDOFF - street-hail-taxi LITERATURE_FINAL package (v2, language-locked)
+
+FINAL DECISION: SUBMISSION READY - LOCKED
+
+- Science unchanged; analysis unchanged; numerical results unchanged.
+- Final main-text word count: 5,105 (target 5,000-6,000).
+- Final reference count: 41 (all verified, all cited, first-appearance order).
+- Final cover-letter word count: 435, first person, signed Onishi Tatsuki.
+- "near-chance / coin flip" wording removed — no implied 50% chance null.
+- "minimal framework" changed to "practical falsification-oriented
+  stress-test framework".
+- "the audit framework works" replaced with "exposes the distinction
+  between apparent optimization gain and transferable spatial structure".
+- 21/21 QC remains PASS; all reference audits remain PASS.
+- OMML remains PASS (10 elements); literal asterisks 0; manual line breaks 0.
+- No stale package artifacts remain; final ZIP is submission-ready.
+- Final ZIP: CEUS_submission_LITERATURE_FINAL_LOCKED_v2.zip

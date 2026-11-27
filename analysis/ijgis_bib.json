@@ -1,0 +1,222 @@
+{
+ "tfinder": {
+  "cite": "Yuan et al.",
+  "year": 2013,
+  "ref": "Yuan, N.J., Zheng, Y., Zhang, L., and Xie, X., 2013. T-Finder: a recommender system for finding passengers and vacant taxis. IEEE Transactions on Knowledge and Data Engineering, 25 (10), 2390–2403. https://doi.org/10.1109/TKDE.2012.153"
+ },
+ "yuan2011": {
+  "cite": "Yuan et al.",
+  "year": 2011,
+  "ref": "Yuan, J., Zheng, Y., Zhang, L., Xie, X., and Sun, G., 2011. Where to find my next passenger? In: Proceedings of the 13th International Conference on Ubiquitous Computing (UbiComp 2011), Beijing. New York: ACM, 109–118. https://doi.org/10.1145/2030112.2030128"
+ },
+ "zheng2010": {
+  "cite": "Zheng et al.",
+  "year": 2011,
+  "ref": "Zheng, Y., Liu, Y., Yuan, J., and Xie, X., 2011. Urban computing with taxicabs. In: Proceedings of the 13th International Conference on Ubiquitous Computing (UbiComp 2011), Beijing. New York: ACM, 89–98. https://doi.org/10.1145/2030112.2030126"
+ },
+ "yang2002": {
+  "cite": "Yang and Wong",
+  "year": 2002,
+  "ref": "Yang, H. and Wong, S.C., 2002. Demand–supply equilibrium of taxi services in a network under competition and regulation. Transportation Research Part B: Methodological, 36 (9), 799–819. https://doi.org/10.1016/S0191-2615(01)00031-5"
+ },
+ "wong2008": {
+  "cite": "Wong et al.",
+  "year": 2005,
+  "ref": "Wong, K.I., Wong, S.C., Bell, M.G.H., and Yang, H., 2005. Modeling the bilateral micro-searching behavior for urban taxi services using the absorbing Markov chain approach. Journal of Advanced Transportation, 39 (1), 81–104. https://doi.org/10.1002/atr.5670390107"
+ },
+ "hakusyo2025": {
+  "cite": "Tokyo Hire-Taxi Association",
+  "year": 2025,
+  "ref": "Tokyo Hire-Taxi Association, 2025. Tokyo no Taxi 2025 [online]. Tokyo: Tokyo Hire-Taxi Association. Available from: https://taxi-tokyo.or.jp/ [Accessed 29 September 2026]."
+ },
+ "taxi_demand": {
+  "cite": "Moreira-Matias et al.",
+  "year": 2013,
+  "ref": "Moreira-Matias, L., Gama, J., Ferreira, M., Mendes-Moreira, J., and Damas, L., 2013. Predicting taxi–passenger demand using streaming data. IEEE Transactions on Intelligent Transportation Systems, 14 (3), 1393–1402. https://doi.org/10.1109/TITS.2013.2262376"
+ },
+ "taxi_stand": {
+  "cite": "Ocalir et al.",
+  "year": 2010,
+  "ref": "Ocalir, E.V., Ercoskun, O.Y., and Tur, R., 2010. An integrated model of GIS and fuzzy logic (FMOTS) for location decisions of taxicab stands. Expert Systems with Applications, 37 (7), 4892–4901. https://doi.org/10.1016/j.eswa.2009.12.026"
+ },
+ "taxi_demand2": {
+  "cite": "Hwang et al.",
+  "year": 2015,
+  "ref": "Hwang, R.H., Hsueh, Y.L., and Chen, Y.T., 2015. An effective taxi recommender system based on a spatio-temporal factor analysis model. Information Sciences, 314, 200–211. https://doi.org/10.1016/j.ins.2015.03.047"
+ },
+ "yang2010": {
+  "cite": "Yang et al.",
+  "year": 2010,
+  "ref": "Yang, H., Leung, C.W.Y., Wong, S.C., and Bell, M.G.H., 2010. Equilibria of bilateral taxi–customer searching and meeting on networks. Transportation Research Part B: Methodological, 44 (8–9), 1067–1083. https://doi.org/10.1016/j.trb.2009.12.010"
+ },
+ "hansen1959": {
+  "cite": "Hansen",
+  "year": 1959,
+  "ref": "Hansen, W.G., 1959. How accessibility shapes land use. Journal of the American Institute of Planners, 25 (2), 73–76. https://doi.org/10.1080/01944365908978307"
+ },
+ "handy1997": {
+  "cite": "Handy and Niemeier",
+  "year": 1997,
+  "ref": "Handy, S.L. and Niemeier, D.A., 1997. Measuring accessibility: an exploration of issues and alternatives. Environment and Planning A, 29 (7), 1175–1194. https://doi.org/10.1068/a291175"
+ },
+ "geurs2004": {
+  "cite": "Geurs and van Wee",
+  "year": 2004,
+  "ref": "Geurs, K.T. and van Wee, B., 2004. Accessibility evaluation of land-use and transport strategies: review and research directions. Journal of Transport Geography, 12 (2), 127–140. https://doi.org/10.1016/j.jtrangeo.2003.10.005"
+ },
+ "kwan1998": {
+  "cite": "Kwan",
+  "year": 1998,
+  "ref": "Kwan, M.-P., 1998. Space-time and integral measures of individual accessibility: a comparative analysis using a point-based framework. Geographical Analysis, 30 (3), 191–216. https://doi.org/10.1111/j.1538-4632.1998.tb00396.x"
+ },
+ "miller1999": {
+  "cite": "Miller",
+  "year": 1999,
+  "ref": "Miller, H.J., 1999. Measuring space-time accessibility benefits within transportation networks: basic theory and computational procedures. Geographical Analysis, 31 (2), 187–212. https://doi.org/10.1111/j.1538-4632.1999.tb00976.x"
+ },
+ "shen1998": {
+  "cite": "Shen",
+  "year": 1998,
+  "ref": "Shen, Q., 1998. Location characteristics of inner-city neighborhoods and employment accessibility of low-wage workers. Environment and Planning B: Planning and Design, 25 (3), 345–365. https://doi.org/10.1068/b250345"
+ },
+ "mavoa2015": {
+  "cite": "Mavoa et al.",
+  "year": 2012,
+  "ref": "Mavoa, S., Witten, K., McCreanor, T., and O'Sullivan, D., 2012. GIS based destination accessibility via public transit and walking in Auckland, New Zealand. Journal of Transport Geography, 20 (1), 15–22. https://doi.org/10.1016/j.jtrangeo.2011.10.001"
+ },
+ "freudenberg2003": {
+  "cite": "Freudenberg",
+  "year": 2003,
+  "ref": "Freudenberg, M., 2003. Composite indicators of country performance: a critical assessment. OECD Science, Technology and Industry Working Papers 2003/16. Paris: OECD Publishing. https://doi.org/10.1787/405566708255"
+ },
+ "oecd2008": {
+  "cite": "OECD/JRC",
+  "year": 2008,
+  "ref": "OECD/JRC, 2008. Handbook on constructing composite indicators: methodology and user guide. Paris: OECD Publishing. https://doi.org/10.1787/9789264043466-en"
+ },
+ "saltelli2008": {
+  "cite": "Saltelli et al.",
+  "year": 2008,
+  "ref": "Saltelli, A., Ratto, M., Andres, T., Campolongo, F., Cariboni, J., Gatelli, D., Saisana, M., and Tarantola, S., 2008. Global sensitivity analysis: the primer. Chichester: Wiley. https://doi.org/10.1002/9780470725184"
+ },
+ "greco2019": {
+  "cite": "Greco et al.",
+  "year": 2019,
+  "ref": "Greco, S., Ishizaka, A., Tasiou, M., and Torrisi, G., 2019. On the methodological framework of composite indices: a review of the issues of weighting, aggregation, and robustness. Social Indicators Research, 141 (1), 61–94. https://doi.org/10.1007/s11205-017-1832-9"
+ },
+ "fotheringham1991": {
+  "cite": "Fotheringham and Wong",
+  "year": 1991,
+  "ref": "Fotheringham, A.S. and Wong, D.W.S., 1991. The modifiable areal unit problem in multivariate statistical analysis. Environment and Planning A, 23 (7), 1025–1044. https://doi.org/10.1068/a231025"
+ },
+ "jelinski1996": {
+  "cite": "Jelinski and Wu",
+  "year": 1996,
+  "ref": "Jelinski, D.E. and Wu, J., 1996. The modifiable areal unit problem and implications for landscape ecology. Landscape Ecology, 11 (3), 129–140. https://doi.org/10.1007/BF02447512"
+ },
+ "openshaw1984": {
+  "cite": "Openshaw",
+  "year": 1984,
+  "ref": "Openshaw, S., 1984. The modifiable areal unit problem. Concepts and Techniques in Modern Geography 38. Norwich: Geo Books."
+ },
+ "longley2015": {
+  "cite": "Longley et al.",
+  "year": 2015,
+  "ref": "Longley, P.A., Goodchild, M.F., Maguire, D.J., and Rhind, D.W., 2015. Geographic information science and systems. 4th ed. Hoboken, NJ: Wiley."
+ },
+ "moran1950": {
+  "cite": "Moran",
+  "year": 1950,
+  "ref": "Moran, P.A.P., 1950. Notes on continuous stochastic phenomena. Biometrika, 37 (1–2), 17–23. https://doi.org/10.2307/2332142"
+ },
+ "getis1992": {
+  "cite": "Getis and Ord",
+  "year": 1992,
+  "ref": "Getis, A. and Ord, J.K., 1992. The analysis of spatial association by use of distance statistics. Geographical Analysis, 24 (3), 189–206. https://doi.org/10.1111/j.1538-4632.1992.tb00261.x"
+ },
+ "anselin1995": {
+  "cite": "Anselin",
+  "year": 1995,
+  "ref": "Anselin, L., 1995. Local indicators of spatial association – LISA. Geographical Analysis, 27 (2), 93–115. https://doi.org/10.1111/j.1538-4632.1995.tb00338.x"
+ },
+ "besag1977": {
+  "cite": "Besag and Diggle",
+  "year": 1977,
+  "ref": "Besag, J. and Diggle, P.J., 1977. Simple Monte Carlo tests for spatial pattern. Applied Statistics, 26 (3), 327–333. https://doi.org/10.2307/2346974"
+ },
+ "manly2007": {
+  "cite": "Manly",
+  "year": 2007,
+  "ref": "Manly, B.F.J., 2007. Randomization, bootstrap and Monte Carlo methods in biology. 3rd ed. Boca Raton, FL: Chapman & Hall/CRC. https://doi.org/10.1201/9781315273075"
+ },
+ "steegen2016": {
+  "cite": "Steegen et al.",
+  "year": 2016,
+  "ref": "Steegen, S., Tuerlinckx, F., Gelman, A., and Vanpaemel, W., 2016. Increasing transparency through a multiverse analysis. Perspectives on Psychological Science, 11 (5), 702–712. https://doi.org/10.1177/1745691616658637"
+ },
+ "simonsohn2020": {
+  "cite": "Simonsohn et al.",
+  "year": 2020,
+  "ref": "Simonsohn, U., Simmons, J.P., and Nelson, L.D., 2020. Specification curve analysis. Nature Human Behaviour, 4 (11), 1208–1214. https://doi.org/10.1038/s41562-020-0912-z"
+ },
+ "simmons2011": {
+  "cite": "Simmons et al.",
+  "year": 2011,
+  "ref": "Simmons, J.P., Nelson, L.D., and Simonsohn, U., 2011. False-positive psychology: undisclosed flexibility in data collection and analysis allows presenting anything as significant. Psychological Science, 22 (11), 1359–1366. https://doi.org/10.1177/0956797611417632"
+ },
+ "gelman2014": {
+  "cite": "Gelman and Loken",
+  "year": 2013,
+  "ref": "Gelman, A. and Loken, E., 2013. The garden of forking paths: why multiple comparisons can be a problem, even when there is no 'fishing expedition' or 'p-hacking' and the research hypothesis was posited ahead of time [online]. New York: Department of Statistics, Columbia University. Available from: https://sites.stat.columbia.edu/gelman/research/unpublished/p_hacking.pdf [Accessed 10 November 2026]."
+ },
+ "kuby2009": {
+  "cite": "Kuby and Lim",
+  "year": 2005,
+  "ref": "Kuby, M. and Lim, S., 2005. The flow-refueling location problem for alternative-fuel vehicles. Socio-Economic Planning Sciences, 39 (2), 125–145. https://doi.org/10.1016/j.seps.2004.03.001"
+ },
+ "kuby2009b": {
+  "cite": "Kuby and Lim",
+  "year": 2007,
+  "ref": "Kuby, M. and Lim, S., 2007. Location of alternative-fuel stations using the flow-refueling location model and dispersion of candidate sites on arcs. Networks and Spatial Economics, 7 (2), 129–152. https://doi.org/10.1007/s11067-006-9003-6"
+ },
+ "he2013": {
+  "cite": "He et al.",
+  "year": 2013,
+  "ref": "He, F., Wu, D., Yin, Y., and Guan, Y., 2013. Optimal deployment of public charging stations for plug-in hybrid electric vehicles. Transportation Research Part B: Methodological, 47, 87–101. https://doi.org/10.1016/j.trb.2012.09.007"
+ },
+ "nicholas2004": {
+  "cite": "Melendez and Milbrandt",
+  "year": 2008,
+  "ref": "Melendez, M. and Milbrandt, A., 2008. Regional consumer hydrogen demand and optimal hydrogen refueling station siting. Technical Report NREL/TP-540-42224. Golden, CO: National Renewable Energy Laboratory. https://doi.org/10.2172/928253"
+ },
+ "osm": {
+  "cite": "OpenStreetMap contributors",
+  "year": 2026,
+  "ref": "OpenStreetMap contributors, 2026. OpenStreetMap planet data and Overpass API [online]. Licensed under ODbL. Available from: https://www.openstreetmap.org [Accessed 29 September 2026, via OSMnx 2.0.7]."
+ },
+ "nlni": {
+  "cite": "MLIT",
+  "year": 2023,
+  "ref": "MLIT (Ministry of Land, Infrastructure, Transport and Tourism, Japan), 2023. National Land Numerical Information: railway data (N02), FY2023 [dataset]. Available from: https://nlftp.mlit.go.jp/ksj/ [Accessed 29 September 2026]."
+ },
+ "monitor": {
+  "cite": "Tokyo Taxi Center",
+  "year": 2024,
+  "ref": "Tokyo Taxi Center, 2024. Taxi user monitor survey: FY2023 tabulation report [online]. Tokyo: Tokyo Taxi Center. Available from: https://www.tokyo-tc.or.jp/center/uploads/monitor_2024.pdf [Accessed 29 September 2026]."
+ },
+ "goodchild1992": {
+  "cite": "Goodchild",
+  "year": 1992,
+  "ref": "Goodchild, M.F., 1992. Geographical information science. International Journal of Geographical Information Systems, 6 (1), 31–45. https://doi.org/10.1080/02693799208901893"
+ },
+ "heuvelink1989": {
+  "cite": "Heuvelink et al.",
+  "year": 1989,
+  "ref": "Heuvelink, G.B.M., Burrough, P.A., and Stein, A., 1989. Propagation of errors in spatial modelling with GIS. International Journal of Geographical Information Systems, 3 (4), 303–322. https://doi.org/10.1080/02693798908941518"
+ },
+ "kedron2021": {
+  "cite": "Kedron et al.",
+  "year": 2021,
+  "ref": "Kedron, P., Li, W., Fotheringham, S., and Goodchild, M., 2021. Reproducibility and replicability: opportunities and challenges for geospatial research. International Journal of Geographical Information Science, 35 (3), 427–445. https://doi.org/10.1080/13658816.2020.1802032"
+ }
+}

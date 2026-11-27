@@ -1,0 +1,29 @@
+{
+ "mode": "public_github",
+ "public_url": "https://github.com/bougtoir/street-hail-taxi-accessibility",
+ "review_model": "single-blind (Transactions in GIS author guidelines; see TGIS_CURRENT_REQUIREMENTS.md)",
+ "sync_branch": "devin/1790678085-street-hail-taxi (wip sync-to-repos BRANCH_MAP, subdir street-hail-taxi)",
+ "superseded_anonymous_review": {
+  "anon_url": "https://anonymous.4open.science/r/anonymous-spatial-proxy-review-7E02/",
+  "anon_service": "Anonymous GitHub (anonymous.4open.science)",
+  "anon_snapshot": {
+   "anonymized_at": "2026-11-11T03:42:34.148Z",
+   "published_at": "2026-11-11T03:42:36.387Z",
+   "expiration": "2027-05-11T03:37:47.594Z",
+   "auto_update": false,
+   "upstream_commit": "a1821d6d4dfb86cd489765b354c7735ccb1aed73",
+   "served_files": 66,
+   "served_identical_to_upstream": true
+  },
+  "upstream_visibility": "private",
+  "superseded": {
+   "platform": "Zenodo (unpublished draft; no DOI reserved)",
+   "record_id": 24106479,
+   "access_link_id": "4799cc33-389d-411f-9403-f47959bc7c0a",
+   "permission": "preview",
+   "created_at": "2026-11-10T11:34:51.279699+00:00",
+   "bundle_sha256": "813a334f2afae595eca7c223aa263e34b47e7bab7fd5b3a0706eb3fcdbf28791",
+   "status": "superseded by Anonymous GitHub on 2026-11-11; draft left unpublished as fallback; tokenized URL retained only in data/raw/zenodo_review/04_access_link.json (private)"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+ref_id,source_url,retrieved_utc,bytes,sha256,crossref_summary
+tfinder,https://api.crossref.org/works/10.1109/TKDE.2012.153,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+yuan2011,https://api.crossref.org/works/10.1145/2030112.2030135,2026-11-10T09:52Z,6824,487c077273e13442f304f4505b32139eb5a16342177ae36ece2f193d4d911a7b,2011|Proceedings of the 13th international conference on Ubiquitous computing|||163-172|Getting closer
+zheng2010,https://api.crossref.org/works/10.1145/2030112.2030126,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+yang2002,https://api.crossref.org/works/10.1016/S0191-2615(01)00031-5,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+wong2008,https://api.crossref.org/works/10.1002/atr.5670390107,2026-11-10T09:52Z,6860,316766dbada6b7a9bb217b4523928ca38bcfac93c78f0c6393ebd3dd04f84cc3,2005|Journal of Advanced Transportation|39|1|81-104|Modeling the bilateral micro-searching behavior for urban ta
+hakusyo2025,,2026-11-10T09:52Z,0,,no DOI
+taxi_demand,https://api.crossref.org/works/10.1109/TITS.2013.2262376,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+taxi_stand,https://api.crossref.org/works/10.1016/j.eswa.2009.12.073,2026-11-10T09:52Z,8753,d87c566603030aa0a3caf08c38330bcc00e8103b050adcaab198703cef5294b8,2010|Expert Systems with Applications|37|7|5186-5191|Multi-agent based distributed inventory control model
+taxi_demand2,https://api.crossref.org/works/10.1016/j.ins.2015.03.047,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+yang2010,https://api.crossref.org/works/10.1016/j.trb.2010.03.003,2026-11-10T09:52Z,8604,66db419fed93bcbd2657d997477976e89e55eb5cc59906711d2d59428beb8722,2010|Transportation Research Part B: Methodological|44|8-9|1104-1114|Optimal fueling strategies for locomotive fleets in railroad
+hansen1959,https://api.crossref.org/works/10.1080/01944365908978307,2026-11-10T09:52Z,1796,8b07561d45664c84c35489706fface357aebe96ae4b641515bb4e70bc210f1e8,1959|Journal of the American Institute of Planners|25|2|73-76|How Accessibility Shapes Land Use
+handy1997,https://api.crossref.org/works/10.1068/a291175,2026-11-10T09:52Z,9656,869b89feca56b2c43ed5f1432243803ccd5bd993f4cfe4de9a23e7b05a26a746,1997|Environment and Planning A: Economy and Space|29|7|1175-1194|Measuring Accessibility: An Exploration of Issues and Altern
+geurs2004,https://api.crossref.org/works/10.1016/j.jtrangeo.2003.10.005,2026-11-10T09:52Z,23962,8a0ee23978db380f68e21a30a5aa7c9b727f6efb3aa221e44e2bc4a1820fc5f7,2004|Journal of Transport Geography|12|2|127-140|Accessibility evaluation of land-use and transport strategie
+kwan1998,https://api.crossref.org/works/10.1111/j.1538-4632.1998.tb00396.x,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+miller1999,https://api.crossref.org/works/10.1111/j.1538-4632.1999.tb00976.x,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+shen1998,https://api.crossref.org/works/10.1068/b250345,2026-11-10T09:52Z,8825,d93fde206ab5a0a3f11a0b355a42d50fd47f58837e30541b02d4575c57f9de64,1998|Environment and Planning B: Planning and Design|25|3|345-365|Location Characteristics of Inner-City Neighborhoods and Emp
+mavoa2015,https://api.crossref.org/works/10.1016/j.jtrangeo.2011.10.001,2026-11-10T09:52Z,14777,50d8036a843b00b49d24eebe174b92336f93a7da53fb5740ad1e99afc0a99d64,2012|Journal of Transport Geography|20|1|15-22|GIS based destination accessibility via public transit and w
+freudenberg2003,https://api.crossref.org/works/10.1787/405566708255,2026-11-10T09:52Z,1365,05166c17e52749824b94fdd9655de53f175ec99c83627a63d856548bf52afae8,"2003|OECD Science, Technology and Industry Working Papers||||Composite Indicators of Country Performance"
+oecd2008,https://api.crossref.org/works/10.1787/9789264043466-en,2026-11-10T09:52Z,0,,ERR list index out of range
+saltelli2008,https://api.crossref.org/works/10.1002/9780470725184,2026-11-10T09:52Z,0,,ERR list index out of range
+greco2019,https://api.crossref.org/works/10.1007/s11205-017-1832-9,2026-11-10T09:52Z,76885,7ea28f372141340cc894bd7357640e0224a46ad987bbae8e2d00d01915bb5e23,2019|Social Indicators Research|141|1|61-94|On the Methodological Framework of Composite Indices: A Revi
+fotheringham1991,https://api.crossref.org/works/10.1068/a231025,2026-11-10T09:52Z,8423,63d795c2b879b70175adce9775d86166e64a95fc2acefc26717e021e5f8875e1,1991|Environment and Planning A: Economy and Space|23|7|1025-1044|The Modifiable Areal Unit Problem in Multivariate Statistica
+jelinski1996,https://api.crossref.org/works/10.1007/BF02447512,2026-11-10T09:52Z,22919,3b6fe4bc726277c4667768d46a5f7455ddb387e9c058fd0d187014caddafe6ea,1996|Landscape Ecology|11|3|129-140|The modifiable areal unit problem and implications for lands
+openshaw1984,,2026-11-10T09:52Z,0,,no DOI
+longley2015,,2026-11-10T09:52Z,0,,no DOI
+moran1950,https://api.crossref.org/works/10.2307/2332142,2026-11-10T09:52Z,1443,b182d2e52fbdff85cc0703638708448e26ee1c4f233a84c414cfed689c57bc79,1950|Biometrika|37|1/2|17|Notes on Continuous Stochastic Phenomena
+getis1992,https://api.crossref.org/works/10.1111/j.1538-4632.1992.tb00261.x,2026-11-10T09:52Z,6790,a8c619d28fd5d6c57c344d3a324411b714c7485acee5e77b4daf484f14e10f20,1992|Geographical Analysis|24|3|189-206|The Analysis of Spatial Association by Use of Distance Stati
+anselin1995,https://api.crossref.org/works/10.1111/j.1538-4632.1995.tb00338.x,2026-11-10T09:52Z,10509,ed0c257d3c609c6d4a2b2ad8b594db64b121471f5909b695754e31b8997f77dc,1995|Geographical Analysis|27|2|93-115|Local Indicators of Spatial Association—LISA
+besag1977,https://api.crossref.org/works/10.2307/2346974,2026-11-10T09:52Z,1587,056e11284a4bea9b57851fc5b4a3cdb5bc5f2a9f560b1cd26437a2d408d168c8,1977|Applied Statistics|26|3|327|Simple Monte Carlo Tests for Spatial Pattern
+manly2007,https://api.crossref.org/works/10.1201/9781315273075,2026-11-10T09:52Z,0,,ERR list index out of range
+steegen2016,https://api.crossref.org/works/10.1177/1745691616658637,2026-11-10T09:52Z,8126,cbec4f9c660fa76a229a68eada2b197055c77a2ae5c4d97cd1755db6f55a1031,2016|Perspectives on Psychological Science|11|5|702-712|Increasing Transparency Through a Multiverse Analysis
+simonsohn2020,https://api.crossref.org/works/10.1038/s41562-020-0912-z,2026-11-10T09:52Z,14313,ec2732f7ee544b2cd3e7b43b5a500d3671bbd2d44460cf472c06599784c13921,2020|Nature Human Behaviour|4|11|1208-1214|Specification curve analysis
+simmons2011,https://api.crossref.org/works/10.1177/0956797611417632,2026-11-10T09:52Z,5739,3641aade3d6db7c60d489b9aee832abed4871e1e48f33f7db27b737cae4c223a,2011|Psychological Science|22|11|1359-1366|False-Positive Psychology
+gelman2014,,2026-11-10T09:52Z,0,,no DOI
+kuby2009,https://api.crossref.org/works/10.1016/j.socsc.2004.03.001,2026-11-10T09:52Z,0,,ERR HTTP Error 404: Not Found
+kuby2009b,https://api.crossref.org/works/10.1007/s11067-006-9003-0,2026-11-10T09:52Z,0,,ERR HTTP Error 404: Not Found
+he2013,https://api.crossref.org/works/10.1016/j.trb.2012.09.007,2026-11-10T09:52Z,0,,ERR HTTP Error 429: Too Many Requests
+nicholas2004,https://api.crossref.org/works/10.2172/928253,2026-11-10T09:52Z,0,,ERR list index out of range
+osm,,2026-11-10T09:52Z,0,,no DOI
+nlni,,2026-11-10T09:52Z,0,,no DOI
+monitor,,2026-11-10T09:52Z,0,,no DOI
+yuan2011_fixed,https://api.crossref.org/works/10.1145/2030112.2030128,2026-11-10T10:04Z,5145,97027aeb8b26fed0f434d30ba546cdd7d13e74c22128af0b926b2f20631aa138,2011|Jing Yuan;Yu Zheng;Liuhang Zhang;XIng Xie;Guangzhong Sun|Proceedings of the 13th international conference on Ubiquitous computing|||109-118|Where to find my next passenger
+taxi_stand_fixed,https://api.crossref.org/works/10.1016/j.eswa.2009.12.026,2026-11-10T10:04Z,11773,90010c8e5b10ea7cb317d3aadca7e3362d0f2907cfb138e95c886d4f7101bf91,2010|Ebru Vesile Ocalir;Ozge Yalciner Ercoskun;Rifat Tur|Expert Systems with Applications|37|7|4892-4901|An integrated model of GIS and fuzzy logic (FMOTS) for location decisions of taxicab stands
+yang2010_fixed,https://api.crossref.org/works/10.1016/j.trb.2009.12.010,2026-11-10T10:04Z,12546,595aa7895ab9fd88bfa2ffabf85698fffdb281062a23b70b3c8e513753eb98da,2010|Hai Yang;Cowina W.Y. Leung;S.C. Wong;Michael G.H. Bell|Transportation Research Part B: Methodological|44|8-9|1067-1083|Equilibria of bilateral taxi–customer searching and meeting on networks
+kuby2009_fixed,https://api.crossref.org/works/10.1016/j.seps.2004.03.001,2026-11-10T10:04Z,11669,322d3e296653237f65c247d4be8ad13e0cbcbadd39d09587003edeb9bcecbfd8,2005|Michael Kuby;Seow Lim|Socio-Economic Planning Sciences|39|2|125-145|The flow-refueling location problem for alternative-fuel vehicles
+kuby2009b_fixed,https://api.crossref.org/works/10.1007/s11067-006-9003-6,2026-11-10T10:04Z,8753,0c50d9f4a54b28d806a35095dd83bad25b9140dfc89c90aacf9ff6a187a496b9,2007|Michael Kuby;Seow Lim|Networks and Spatial Economics|7|2|129-152|Location of Alternative-Fuel Stations Using the Flow-Refueling Location Model and Dispersion of Candidate Sites on Arcs
+gelman2014,https://sites.stat.columbia.edu/gelman/research/unpublished/p_hacking.pdf,2026-11-10T10:06Z,219914,8cfd8ffd854e4269979c83d7d41b0ee843b0223e9923e3e47f60ca3a0403cb3c,author PDF dated 14 Nov 2013
+goodchild1992,https://api.crossref.org/works/10.1080/02693799208901893,2026-11-10T10:06Z,6976,6900ed7d299f8f265115931cafb59db4f6380894311114d1c6c13839722b77d0,1992|Michael F. Goodchild|International journal of geographical information systems|6|1|31-45|Geographical information science
+heuvelink1989,https://api.crossref.org/works/10.1080/02693798908941518,2026-11-10T10:06Z,7721,7d3f1a9bcde196684034f1e20be04e5f807677f55b879a5dcec3ec2aafbb73e4,1989|GERARD B. M. HEUVELINK;PETER A. BURROUGH;ALFRED STEIN|International journal of geographical information systems|3|4|303-322|Propagation of errors in spatial modelling with GIS
+kedron2021,https://api.crossref.org/works/10.1080/13658816.2020.1802032,2026-11-10T10:06Z,11828,d69a0b326e82b6a3c4b8e5706baf8d001ae198681ee8a7f1ad3f50b438b5baf0,2021|Peter Kedron;Wenwen Li;Stewart Fotheringham;Michael Goodchild|International Journal of Geographical Information Science|35|3|427-445|Reproducibility and replicability: opportunities and challenges for geospatial research

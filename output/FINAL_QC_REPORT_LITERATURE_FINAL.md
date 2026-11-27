@@ -1,0 +1,23 @@
+# FINAL QC REPORT — LITERATURE_FINAL
+
+1. hostile review: PASS (see HOSTILE_REVIEW_LITERATURE_EXPANSION_FINAL.md)
+2. hardcoded result audit: PASS (all analysis values via canon(); registry unchanged)
+3. clean/public reproduction: PASS (same committed inputs; PUBLIC PARTIAL as documented)
+4. reference existence: PASS (41/41 verified — FINAL_REFERENCE_EXISTENCE_AUDIT_EXPANDED.md)
+5. every bibliography item cited: PASS (builder prints only cited ids)
+6. every citation has bibliography entry: PASS (cite() registers ids; no orphans)
+7. all figures cited: PASS (F1-F9 each cited in text)
+8. all tables cited: PASS (T1-T5 each cited)
+9. numeric consistency: PASS (canonical values identical; 43% convention kept)
+10. figure numbering order: PASS (first-citation order retained)
+11. table numbering order: PASS
+12. reference numbering/order: PASS (first-appearance; FINAL_REFERENCE_ORDER_AUDIT.md)
+13. OMML: PASS (10 oMath elements preserved)
+14. literal asterisk count: PASS (0)
+15. manual line-break count: PASS (0)
+16. stale figure/table artifacts: PASS (none in package)
+17. canonical ZIP manifest: PASS (FINAL_ZIP_MANIFEST_LITERATURE.csv all YES)
+18. manuscript word count: PASS (~5,010 main text; target 5,000-6,000)
+19. CEUS submission requirements: PASS (Vancouver numbered refs; single-author cover letter)
+20. claim calibration: PASS (negative transfer/null findings retained verbatim)
+21. bibliography target: PASS (41 refs, within 40-45)
